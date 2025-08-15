@@ -1,0 +1,1 @@
+Conducted data cleaning, visualization, and regression analyses in Stata to explore how test prep and parental education impact student scores, showing that completing test prep notably boosts performance, especially in math.
